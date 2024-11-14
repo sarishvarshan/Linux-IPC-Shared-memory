@@ -1,3 +1,6 @@
+## NAME :SARISH VARSHAN V
+## REG NO : 212223230196
+
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
